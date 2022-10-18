@@ -43,7 +43,8 @@ Edit the tsconfig.json file as follows:
 
 ```
 npm install typescript ts-node ts-node-dev @types/node --save-dev
-npm install pg
+npm install pg dotenv
+npm install @types/pg --save-dev
 ```
 
 ### Step 5 - Create the main.ts
