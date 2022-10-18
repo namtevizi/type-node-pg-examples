@@ -7,7 +7,6 @@ mkdir <project-name>
 cd <project-name>
 
 npm init -y
-npm install typescript ts-node-dev @types/node --save-dev
 ```
 
 ### Step 2 - Init the project
@@ -47,6 +46,7 @@ Edit the tsconfig.json file as follows:
 
 ```
 npm install typescript ts-node ts-node-dev @types/node --save-dev
+npm install pg
 ```
 
 ### Step 5 - Create the main.ts
