@@ -4,9 +4,6 @@
 
 ```
 mkdir <project-name>
-cd <project-name>
-
-npm init -y
 ```
 
 ### Step 2 - Init the project
